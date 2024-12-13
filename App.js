@@ -9,6 +9,8 @@ export default function App() {
       <Text style={styles.text}>Emmanuel Oyenuga!</Text>
 
 <StatusBar style="auto" />
+      <Text style={styles.Title}>Pooja Suresh Kumar Salar</Text>
+      <StatusBar style="auto" />
     </View>
   );
 }
